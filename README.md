@@ -1,6 +1,6 @@
 # hello_world_app
 
-A new Flutter project.
+A Flutter Counter project.
 
 ## Getting Started
 
