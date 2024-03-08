@@ -2,6 +2,8 @@
 
 A Flutter Counter project.
 
+https://www.notion.so/Flutter-0c223003b28142b49761c31a87f99ed6?pvs=4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
